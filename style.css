@@ -489,6 +489,10 @@ ul {
   margin-bottom: 62px;
 }
 
+label {
+  flex-grow: 1;
+}
+
 .search {
   display: flex;
   width: 100%;
